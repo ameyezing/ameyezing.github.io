@@ -16,4 +16,3 @@ function tryme() {
 function reveal(mydiv) {
 	document.getElementById(mydiv).innerHTML=data[i][mydiv];
 }
-
